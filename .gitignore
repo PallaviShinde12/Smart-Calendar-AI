@@ -214,6 +214,10 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Google API credentials and tokens
+credentials.json
+token.json
+token.pickle
 __marimo__/
 
 # Streamlit
